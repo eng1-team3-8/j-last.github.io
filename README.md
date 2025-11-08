@@ -45,12 +45,22 @@ Initial CRC cards:
 CRC cards after refinement (orgainised into a tree):
 <img width="1600" height="600" alt="crc_cards_in_tree" src="https://github.com/user-attachments/assets/b5617c1c-34be-40c1-b622-d6567eea0b01" />
 
-**Initial Class diagram draft**
+**Initial Class Diagram**
 
 The process followed for converting our CRC cards to an initial class diagram can be found [**here**](https://drive.google.com/file/d/1RE1bZbf29ZUz1s5W5ExYIe10V33A7L12/view?usp=drive_link)
 
 Alternatively, here is the final image:
 <img width="855" height="622" alt="initial_class_diagram" src="https://github.com/user-attachments/assets/fef79a93-3c5a-4776-aac4-da6cbd74c9a6" />
+
+**Interim Class Diagram**
+
+We added to and developed our initial draft into the interim version shown below:
+<img width="894" height="493" alt="Screenshot 2025-11-08 at 02 30 15" src="https://github.com/user-attachments/assets/7f0a26ea-a075-4db4-b98f-e9b6ea2be95d" />
+
+**Final Class Diagram**
+
+The interim class diagram was expanded on until we finalised it into the completed diagram shown:
+<img width="808" height="688" alt="Screenshot 2025-11-08 at 02 27 39" src="https://github.com/user-attachments/assets/e0c5a64f-d1cd-4d39-a1b4-c5921ca50da2" />
 
 # Textural Use Cases
 
