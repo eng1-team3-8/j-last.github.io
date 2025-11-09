@@ -33,6 +33,7 @@
 
 # Snapshots of gantt chart
 **Initial**
+
 Not able to define all tasks for architecture/implementation as haven't learned architecture and not planned code yet.
 <img width="528" height="430" alt="image" src="https://github.com/user-attachments/assets/ca7954ff-5f29-4add-9493-e5b4192f800a" />
 <img width="568" height="285" alt="image" src="https://github.com/user-attachments/assets/054c756e-a803-4e30-a669-d0f210a2e3b8" />
@@ -42,6 +43,7 @@ Not able to define all tasks for architecture/implementation as haven't learned 
 <img width="559" height="285" alt="image" src="https://github.com/user-attachments/assets/bd842c4b-894e-46b2-be17-ec6ffe1e8392" />
 
 **Final Version**
+
 See Plan1 deliverable for final version of gantt chart.
 
 # Development of the design (see arch1.pdf)
