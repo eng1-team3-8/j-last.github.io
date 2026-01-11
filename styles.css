@@ -94,8 +94,9 @@ body{
 }
 
 .bottomText{
-    text-align: left;
+    text-align: right;
     position: fixed;
     bottom: 0px;
     font-size: large;
+    word-spacing: 10px;
 }
