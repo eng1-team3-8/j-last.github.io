@@ -92,3 +92,11 @@
 body{
     background-color: lightgreen;
 }
+
+.bottomText{
+    text-align: right;
+    position: fixed;
+    bottom: 0px;
+    font-size: large;
+    word-spacing: 10px;
+}
